@@ -1,4 +1,4 @@
-<img width="800" height="418" alt="Image" src="https://github.com/user-attachments/assets/f6d3265a-68ac-498f-b3a8-42445009d46c" />
+<img width="800" height="418" alt="Image" src="https://github.com/user-attachments/assets/d4fbdf5c-65a8-4be6-86da-5fb70a5b864a" />
 
 # Section 1 Introduction:
 Identity and Access Management (IAM) is a critical component of enterprise security. Organizations rely on identity providers such as Microsoft Entra ID to manage user identities, enforce authentication policies, and control access to organizational resources.
