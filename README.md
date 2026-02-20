@@ -29,10 +29,12 @@ Sign in using a Microsoft account.
 
 The Microsoft Entra Admin Center is the centralized portal used by IAM administrators to manage identities, roles, authentication methods, and access policies.
 
-Press enter or click to view image in full size
-
 Microsoft Entra Admin Center — Identity management portal used by administrators
-Step 2: Access Tenant Management and Begin Creating a New Entra ID Tenant
+
+<img width="1902" height="1063" alt="Image" src="https://github.com/user-attachments/assets/47cc63bc-7aa9-4362-b6fb-994a1e4d56e8" />
+
+
+# Step 2: Access Tenant Management and Begin Creating a New Entra ID Tenant
 In enterprise environments, IAM administrators manage identity environments using tenants. A tenant represents an organization’s identity boundary and contains all users, groups, roles, and access policies.
 
 Before identities can be created and managed, the administrator must access the tenant management section to create or select the appropriate identity environment.
@@ -46,11 +48,11 @@ From the Microsoft Entra Admin Center homepage:
 Click: Entra ID → Users
 
 This opens the identity management interface to create and manage user identities
-
-Press enter or click to view image in full size
+<img width="812" height="649" alt="Image" src="https://github.com/user-attachments/assets/6fd6dde5-4669-4fe8-9d98-e83a82045ba9" />
 
 User management interface in Microsoft Entra ID used for identity provisioning and lifecycle management
-Step 2.2: Create a New User
+
+# Step 2.2: Create a New User
 
 Click:
 
@@ -58,10 +60,9 @@ New user → Create new user
 
 This opens the identity provisioning interface.
 
+<img width="517" height="311" alt="Image" src="https://github.com/user-attachments/assets/d38405f9-b05c-4e5e-b16c-1caaf23e683f" />
 
 At this stage, the user provisioning interface has been accessed. This interface allows IAM administrators to create and configure new user identities within the organization’s tenant.
-
-In the next section, a new user identity will be created to simulate onboarding a new employee into the organization’s identity environment.
 
 # Step 2.3: Creating a New User Identity
 Identity provisioning involves creating a digital identity for a user within the organization’s identity provider. This identity allows the user to authenticate and access organizational resources.
@@ -78,9 +79,11 @@ Account Settings
 Authentication Configuration
 This ensures secure identity creation and proper access management.
 
-Press enter or click to view image in full size
 
 User idenity creation form in Microsoft Entra ID. IAM administrators use this interface to provision new user identities and configure authentication settings.
+
+<img width="1148" height="798" alt="Image" src="https://github.com/user-attachments/assets/4e927b33-bbf9-4db8-8a0c-b6efd037bc9a" />
+
 When onboarding a new employee, IAM administrators create a new identitiy within the organization’s indentity provider. This identitiy enables the employee to authenticate and access organizational systems securely.
 
 Each identity is uniquely identified by a User Principal Name (UPN), which serves as the login identifier for authentication.
